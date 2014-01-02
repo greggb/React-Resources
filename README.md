@@ -39,6 +39,3 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 ###Components
 * [Infinte Scroll](https://npmjs.org/package/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
 
-###Personal
-* Masonry attempt
-  * http://jsfiddle.net/LryyA/
