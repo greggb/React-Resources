@@ -8,19 +8,14 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 ###Examples
 * [Reddit Browser](http://jsfiddle.net/ssorallen/fEsYt/) via [SO](http://stackoverflow.com/a/20754245/433077)
-
 * [Photo Gallery](http://photos.miekd.com/xoxo2013/) by [Maykel Loomans](http://www.maykelloomans.com/)
-
 * [Hoodie with React TodoMVC](https://github.com/hoodiehq/hoodie-react-todomvc)
-
 * [http://petehunt.github.io/react-touch/](React Touch) by [Pete Hunt](http://www.petehunt.net/)
-
 * [Lights Out](http://chenglou.github.io/react-lights-out/) by [Cheng Lou](https://github.com/chenglou)
 
 ###Tutorials
 
 * http://net.tutsplus.com/tutorials/javascript-ajax/intro-to-the-react-framework/
-
 * [Starter Kit Yeoman Generator](https://github.com/facebook/react/issues/681#issuecomment-31080689)
 
 ###Server side
