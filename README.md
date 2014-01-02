@@ -31,8 +31,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/) by [David Nolen](http://swannodette.github.io/)
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html) by [Christopher Chedeau](http://blog.vjeux.com/)
 * [Writing Good React Components](http://blog.whn.se/post/69621609605/writing-good-react-components) by [William Högman Rudenmalm](http://blog.whn.se/)
-
-*[React: Another Level of Indirection](http://www.lispcast.com/react-another-level-of-indirection) by [Eric Normand](https://twitter.com/ericnormand)
+* [React: Another Level of Indirection](http://www.lispcast.com/react-another-level-of-indirection) by [Eric Normand](https://twitter.com/ericnormand)
 
 ###Videos
 * [Introduction to React](https://www.youtube.com/watch?feature=player_embedded&v=SMMRJif5QW0) by [Stoyan Stefanov](http://www.phpied.com/)
