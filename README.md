@@ -31,7 +31,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 ###Videos
 * [Rethinking best practices](http://www.youtube.com/watch?feature=player_embedded&v=x7cQ3mrcKaY) by [Pete Hunt](http://www.petehunt.net/)
 * [Introduction to React](https://www.youtube.com/watch?feature=player_embedded&v=SMMRJif5QW0) by [Stoyan Stefanov](http://www.phpied.com/)
-* [Super VanJS 2013 Talk](https://www.youtube.com/watch?feature=player_embedded&v=1OeXsL5mr4g) by [Steve Luscher](https://github.com/steveluscher)
+* [Developing User Interfaces With React](https://www.youtube.com/watch?feature=player_embedded&v=1OeXsL5mr4g) by [Steve Luscher](https://github.com/steveluscher)
 
 ###Components
 * [Infinte Scroll](https://npmjs.org/package/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
