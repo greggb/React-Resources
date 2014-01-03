@@ -5,6 +5,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 * [React Blog](http://facebook.github.io/react/blog/)
 * [React Docs](http://facebook.github.io/react/docs/getting-started.html)
+* [Chrome Developer Tools](http://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html)
 
 ###Examples
 * [Reddit Browser](http://jsfiddle.net/ssorallen/fEsYt/) via [SO](http://stackoverflow.com/a/20754245/433077)
