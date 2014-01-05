@@ -38,6 +38,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 ###Components
 * [Infinte Scroll](https://npmjs.org/package/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
+* [Application Controller - Routing with React](https://github.com/andreypopp/react-app-controller) by [Andrey Popp](https://github.com/andreypopp)
 
 ###Other Resources
 * [React Magic - Ajaxify HTML pages](https://github.com/Daniel15/react-magic) by [Daniel Lo Nigro](https://github.com/Daniel15)
