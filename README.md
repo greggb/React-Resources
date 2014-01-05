@@ -5,7 +5,8 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 * [React Blog](http://facebook.github.io/react/blog/)
 * [React Docs](http://facebook.github.io/react/docs/getting-started.html)
-* [Chrome Developer Tools](http://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html)
+* [Chrome Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+  * [Developer Tools Blog Post](http://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html)
 
 ###Examples
 * [Reddit Browser](http://jsfiddle.net/ssorallen/fEsYt/) via [SO](http://stackoverflow.com/a/20754245/433077)
@@ -17,11 +18,11 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 ###Tutorials
 
-* http://net.tutsplus.com/tutorials/javascript-ajax/intro-to-the-react-framework/
+* [Intro to the React Framework](http://net.tutsplus.com/tutorials/javascript-ajax/intro-to-the-react-framework/)
 * [Starter Kit Yeoman Generator](https://github.com/facebook/react/issues/681#issuecomment-31080689)
 
 ###Server side
-* https://github.com/facebook/react-page
+* [React Page](https://github.com/facebook/react-page)
 
 ###Articles
 * [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look) by [Pete Hunt](http://www.petehunt.net/)
