@@ -13,6 +13,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [Hoodie with React TodoMVC](https://github.com/hoodiehq/hoodie-react-todomvc)
 * [http://petehunt.github.io/react-touch/](React Touch) by [Pete Hunt](http://www.petehunt.net/)
 * [Lights Out](http://chenglou.github.io/react-lights-out/) by [Cheng Lou](https://github.com/chenglou)
+* [Gitub Issues Viewer](https://github.com/jaredly/github-issues-viewer) by [Jared Forsyth](https://github.com/jaredly)
 
 ###Tutorials
 
