@@ -11,7 +11,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [Reddit Browser](http://jsfiddle.net/ssorallen/fEsYt/) via [SO](http://stackoverflow.com/a/20754245/433077)
 * [Photo Gallery](http://photos.miekd.com/xoxo2013/) by [Maykel Loomans](http://www.maykelloomans.com/)
 * [Hoodie with React TodoMVC](https://github.com/hoodiehq/hoodie-react-todomvc)
-* [http://petehunt.github.io/react-touch/](React Touch) by [Pete Hunt](http://www.petehunt.net/)
+* [React Touch](http://petehunt.github.io/react-touch/) by [Pete Hunt](http://www.petehunt.net/)
 * [Lights Out](http://chenglou.github.io/react-lights-out/) by [Cheng Lou](https://github.com/chenglou)
 * [Gitub Issues Viewer](https://github.com/jaredly/github-issues-viewer) by [Jared Forsyth](https://github.com/jaredly)
 
@@ -37,4 +37,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 ###Components
 * [Infinte Scroll](https://npmjs.org/package/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
+
+###Other Resources
+* [React Magic - Ajaxify HTML pages](https://github.com/Daniel15/react-magic) by [Daniel Lo Nigro](https://github.com/Daniel15)
 
