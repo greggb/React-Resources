@@ -20,9 +20,11 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 * [Intro to the React Framework](http://net.tutsplus.com/tutorials/javascript-ajax/intro-to-the-react-framework/)
 * [Starter Kit Yeoman Generator](https://github.com/facebook/react/issues/681#issuecomment-31080689)
+* [Implementing the Board Game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html) by [Chris LaRose](http://cjlarose.com/)
 
 ###Server side
 * [React Page](https://github.com/facebook/react-page)
+* [With Rails](https://github.com/necrodome/react-rails-tutorial)
 
 ###Articles
 * [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look) by [Pete Hunt](http://www.petehunt.net/)
@@ -37,7 +39,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [Developing User Interfaces With React](https://www.youtube.com/watch?feature=player_embedded&v=1OeXsL5mr4g) by [Steve Luscher](https://github.com/steveluscher)
 
 ###Components
-* [Infinte Scroll](https://npmjs.org/package/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
+* [Infinte Scroll](https://github.com/guillaumervls/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
 * [Application Controller - Routing with React](https://github.com/andreypopp/react-app-controller) by [Andrey Popp](https://github.com/andreypopp)
 
 ###Other Resources
