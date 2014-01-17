@@ -46,4 +46,5 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 
 ###Other Resources
 * [React Magic - Ajaxify HTML pages](https://github.com/Daniel15/react-magic) by [Daniel Lo Nigro](https://github.com/Daniel15)
+* [Turbo React - React with Turbolinks](https://github.com/ssorallen/turbo-react/) by [Ross Allen](https://github.com/ssorallen)
 
