@@ -34,6 +34,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [Scroll Position with React](http://blog.vjeux.com/2013/javascript/scroll-position-with-react.html) by [Christopher Chedeau](http://blog.vjeux.com/)
 * [Writing Good React Components](http://blog.whn.se/post/69621609605/writing-good-react-components) by [William Högman Rudenmalm](http://blog.whn.se/)
 * [React: Another Level of Indirection](http://www.lispcast.com/react-another-level-of-indirection) by [Eric Normand](https://twitter.com/ericnormand)
+* [React: Finally, a great server/client web stack](http://eflorenzano.com/blog/2013/01/23/react-finally-server-client/) by [Eric Florenzano](http://eflorenzano.com/)
 
 ###Videos
 * [Rethinking best practices](http://www.youtube.com/watch?feature=player_embedded&v=x7cQ3mrcKaY) by [Pete Hunt](http://www.petehunt.net/)
