@@ -20,6 +20,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 ###Tutorials
 
 * [Intro to the React Framework](http://net.tutsplus.com/tutorials/javascript-ajax/intro-to-the-react-framework/)
+* [TodoMVC](http://todomvc.com/architecture-examples/react/)
 * [Starter Kit Yeoman Generator](https://github.com/facebook/react/issues/681#issuecomment-31080689)
 * [Implementing the Board Game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html) by [Chris LaRose](http://cjlarose.com/)
 * [React Tutorials](https://medium.com/react-tutorials/) by [Christopher Pitt](https://twitter.com/followchrisp)
