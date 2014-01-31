@@ -24,6 +24,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [Starter Kit Yeoman Generator](https://github.com/facebook/react/issues/681#issuecomment-31080689)
 * [Implementing the Board Game Go](http://cjlarose.com/2014/01/09/react-board-game-tutorial.html) by [Chris LaRose](http://cjlarose.com/)
 * [React Tutorials](https://medium.com/react-tutorials/) by [Christopher Pitt](https://twitter.com/followchrisp)
+* [React.js in pure JavaScript ](http://www.webdesignporto.com/react-js-in-pure-javascript-facebook-library/)
 
 ###Server side
 * [React Page](https://github.com/facebook/react-page)
