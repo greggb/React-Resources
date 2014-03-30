@@ -16,6 +16,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [React Touch](http://petehunt.github.io/react-touch/) by [Pete Hunt](http://www.petehunt.net/)
 * [Lights Out](http://chenglou.github.io/react-lights-out/) by [Cheng Lou](https://github.com/chenglou)
 * [Gitub Issues Viewer](https://github.com/jaredly/github-issues-viewer) by [Jared Forsyth](https://github.com/jaredly)
+* [Popularity Sorting](http://jsfiddle.net/ugaTa/)
 
 ###Tutorials
 
