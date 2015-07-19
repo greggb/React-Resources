@@ -7,7 +7,8 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [React Docs](http://facebook.github.io/react/docs/getting-started.html)
 * [Chrome Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
   * [Developer Tools Blog Post](http://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html)
-* [Grunt jsx compiling](https://github.com/ericclemmons/grunt-react)
+* [Transpiling with Babel](https://babeljs.io/docs/usage/jsx/)
+
 
 ###Examples
 * [Reddit Browser](http://jsfiddle.net/ssorallen/fEsYt/) via [SO](http://stackoverflow.com/a/20754245/433077)
