@@ -27,6 +27,9 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [React Tutorials](https://medium.com/react-tutorials/) by [Christopher Pitt](https://twitter.com/followchrisp)
 * [React.js in pure JavaScript ](http://www.webdesignporto.com/react-js-in-pure-javascript-facebook-library/)
 
+###Flux
+* [Redux](https://github.com/gaearon/redux) by [Dan Abramov](https://medium.com/@dan_abramov)
+
 ###Server side
 * [React Page](https://github.com/facebook/react-page)
 * [With Rails](https://github.com/necrodome/react-rails-tutorial)
