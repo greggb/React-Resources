@@ -48,6 +48,13 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [Introduction to React](https://www.youtube.com/watch?feature=player_embedded&v=SMMRJif5QW0) by [Stoyan Stefanov](http://www.phpied.com/)
 * [Developing User Interfaces With React](https://www.youtube.com/watch?feature=player_embedded&v=1OeXsL5mr4g) by [Steve Luscher](https://github.com/steveluscher)
 
+###Books
+* [Pro React](http://amzn.to/1VvWzfL) by Cassio de Sousa Antonio
+* [React.JS Essentials](http://amzn.to/215V1Qg) by Artemij Fedosejev
+* [Learning React Native](http://amzn.to/21hcH8c) by Bonnie Eisenman
+* [You Don't Know JS: ES6 & Beyond](http://amzn.to/21hcXUS) by Kyle Simpson
+* [Mastering React](http://amzn.to/215Wjeg) by Adam Horton and Ryan Vice
+
 ###Components
 * [Infinte Scroll](https://github.com/guillaumervls/react-infinite-scroll) by [guillaumervls](https://github.com/guillaumervls)
 * [Application Controller - Routing with React](https://github.com/andreypopp/react-app-controller) by [Andrey Popp](https://github.com/andreypopp)
