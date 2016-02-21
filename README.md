@@ -6,8 +6,8 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [React Blog](http://facebook.github.io/react/blog/)
 * [React Docs](http://facebook.github.io/react/docs/getting-started.html)
 * [Chrome Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-  * [Developer Tools Blog Post](http://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html)
-* [Transpiling with Babel](https://babeljs.io/docs/usage/jsx/)
+  * [Developer Tools Blog Post](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
+* [Transpiling with Babel](https://babeljs.io/docs/plugins/preset-react/)
 
 
 ###Examples
@@ -28,7 +28,7 @@ Collected resources about Facebook's [React](http://facebook.github.io/react/ind
 * [React Tutorials](https://medium.com/react-tutorials/) by [Christopher Pitt](https://twitter.com/followchrisp)
 * [React.js in pure JavaScript ](http://www.webdesignporto.com/react-js-in-pure-javascript-facebook-library/)
 
-###Flux
+###Flux/Redux
 * [Redux](https://github.com/gaearon/redux) by [Dan Abramov](https://medium.com/@dan_abramov)
 
 ###Server side
